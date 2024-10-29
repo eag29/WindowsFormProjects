@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\tekrar\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tekrar\\frmgrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\FrmStatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tekrar\\FrmStatistik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\FrmGrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tekrar\\FrmGrafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tekrar\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\AnaEkran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tekrar\\AnaEkran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGrafikler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "Tekrar\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\FrmGrafikler.cs [Design]",
+              "RelativeToolTip": "Tekrar\\FrmGrafikler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:53:58.091Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\Form1.cs",
+              "RelativeDocumentMoniker": "Tekrar\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\Form1.cs",
+              "RelativeToolTip": "Tekrar\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T13:59:45.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaEkran.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\AnaEkran.cs",
+              "RelativeDocumentMoniker": "Tekrar\\AnaEkran.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\AnaEkran.cs",
+              "RelativeToolTip": "Tekrar\\AnaEkran.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:01:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmStatistik.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\FrmStatistik.cs",
+              "RelativeDocumentMoniker": "Tekrar\\FrmStatistik.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\FrmStatistik.cs",
+              "RelativeToolTip": "Tekrar\\FrmStatistik.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:37:50.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmGrafikler.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\FrmGrafikler.cs",
+              "RelativeDocumentMoniker": "Tekrar\\FrmGrafikler.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\PersonelKayitProgrami\\Tekrar\\FrmGrafikler.cs",
+              "RelativeToolTip": "Tekrar\\FrmGrafikler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:48:45.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

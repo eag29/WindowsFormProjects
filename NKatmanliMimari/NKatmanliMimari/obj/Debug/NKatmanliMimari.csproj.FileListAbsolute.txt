@@ -1,0 +1,17 @@
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe.config
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.exe
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\bin\Debug\NKatmanliMimari.pdb
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccesLayer.dll
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntityLayer.dll
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.dll
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\bin\Debug\DataAccesLayer.pdb
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\bin\Debug\EntityLayer.pdb
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\bin\Debug\LogicLayer.pdb
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Form1.resources
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.Properties.Resources.resources
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.GenerateResource.cache
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanl.E8C0824F.Up2Date
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.exe
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\NKatmanliMimari\NKatmanliMimari\obj\Debug\NKatmanliMimari.pdb

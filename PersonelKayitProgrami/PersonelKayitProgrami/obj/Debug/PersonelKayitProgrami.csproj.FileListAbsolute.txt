@@ -1,0 +1,13 @@
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\bin\Debug\PersonelKayitProgrami.exe.config
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\bin\Debug\PersonelKayitProgrami.exe
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\bin\Debug\PersonelKayitProgrami.pdb
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.Form1.resources
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.Properties.Resources.resources
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.csproj.GenerateResource.cache
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.exe
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.pdb
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.Frmİstatistik.resources
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.FrmGrafikler2.resources
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\PersonelKayitProgrami\obj\Debug\PersonelKayitProgrami.FrmGiris.resources

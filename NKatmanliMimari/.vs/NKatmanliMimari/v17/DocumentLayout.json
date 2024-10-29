@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\NKatmanliMimari\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D87C1BA-DA3E-4A24-9E9B-C84382AA1BDA}|NKatmanliMimari\\NKatmanliMimari.csproj|c:\\users\\emir ali\\documents\\projeler\\c# dersler\\nkatmanlimimari\\nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D87C1BA-DA3E-4A24-9E9B-C84382AA1BDA}|NKatmanliMimari\\NKatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D87C1BA-DA3E-4A24-9E9B-C84382AA1BDA}|NKatmanliMimari\\NKatmanliMimari.csproj|C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\NKatmanliMimari\\nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D87C1BA-DA3E-4A24-9E9B-C84382AA1BDA}|NKatmanliMimari\\NKatmanliMimari.csproj|solutionrelative:nkatmanlimimari\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs",
+              "RelativeDocumentMoniker": "NKatmanliMimari\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs",
+              "RelativeToolTip": "NKatmanliMimari\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:57:35.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs",
+              "RelativeDocumentMoniker": "NKatmanliMimari\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emir Ali\\Documents\\Projeler\\C# Dersler\\NKatmanliMimari\\NKatmanliMimari\\Form1.cs [Design]",
+              "RelativeToolTip": "NKatmanliMimari\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:33:50.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\bin\Debug\Tekrar.exe.config
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\bin\Debug\Tekrar.exe
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\bin\Debug\Tekrar.pdb
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\obj\Debug\Tekrar.csproj.AssemblyReference.cache
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\obj\Debug\Tekrar.AnaEkran.resources
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\obj\Debug\Tekrar.Form1.resources
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\obj\Debug\Tekrar.Properties.Resources.resources
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\obj\Debug\Tekrar.csproj.GenerateResource.cache
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\obj\Debug\Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\obj\Debug\Tekrar.exe
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\obj\Debug\Tekrar.pdb
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\obj\Debug\Tekrar.FrmGrafikler.resources
+C:\Users\Emir Ali\Documents\Projeler\C# Dersler\PersonelKayitProgrami\Tekrar\obj\Debug\Tekrar.FrmStatistik.resources
